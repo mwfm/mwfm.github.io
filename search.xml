@@ -11,8 +11,8 @@
     <content type="text"><![CDATA[墨问非名的Hexo博客。]]></content>
   </entry>
   <entry>
-    <title><![CDATA[标签]]></title>
-    <url>%2Ftags%2Findex.html</url>
+    <title><![CDATA[分类]]></title>
+    <url>%2Fcategories%2Findex.html</url>
     <content type="text"><![CDATA[]]></content>
   </entry>
   <entry>
@@ -21,8 +21,8 @@
     <content type="text"><![CDATA[]]></content>
   </entry>
   <entry>
-    <title><![CDATA[分类]]></title>
-    <url>%2Fcategories%2Findex.html</url>
+    <title><![CDATA[标签]]></title>
+    <url>%2Ftags%2Findex.html</url>
     <content type="text"><![CDATA[]]></content>
   </entry>
 </search>

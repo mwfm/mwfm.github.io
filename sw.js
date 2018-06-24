@@ -24,7 +24,7 @@ var precacheUrls = [];
 
   precacheUrls.push('/');
 
-  precacheUrls.push('/post/users/alicewish/hexomwfm/source/posts/银河英雄传说本传01黎明篇/');
+  precacheUrls.push('/post/users/alicewish/hexomwfm/source/posts/银河英雄传说本传04策谋篇/');
 
   precacheUrls.push('/post/users/alicewish/hexomwfm/source/posts/1q84-book3/');
 
