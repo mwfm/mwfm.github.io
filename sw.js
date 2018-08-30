@@ -24,15 +24,15 @@ var precacheUrls = [];
 
   precacheUrls.push('/');
 
-  precacheUrls.push('/post/users/alicewish/hexomwfm/source/posts/银河英雄传说本传04策谋篇/');
+  precacheUrls.push('/post/users/alicewish/hexomwfm/source/posts/银河英雄传说本传02野望篇/');
+
+  precacheUrls.push('/post/users/alicewish/hexomwfm/source/posts/安德的影子/');
 
   precacheUrls.push('/post/users/alicewish/hexomwfm/source/posts/1q84-book3/');
 
+  precacheUrls.push('/post/users/alicewish/hexomwfm/source/posts/安德的代言/');
+
   precacheUrls.push('/post/users/alicewish/hexomwfm/source/posts/1q84-book1/');
-
-  precacheUrls.push('/post/users/alicewish/hexomwfm/source/posts/1q84-book2/');
-
-  precacheUrls.push('/post/users/alicewish/hexomwfm/source/posts/银河英雄传说本传02野望篇/');
 
 toolbox.precache(precacheUrls);
 toolbox.options = {"networkTimeoutSeconds":5};

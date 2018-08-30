@@ -953,14 +953,14 @@ a {
   background-size: 103%;
 }
 #header .header-nav .social .GitHub {
-  background: url("//cdn.bootcss.com/logos/0.2.0/github-octocat.svg") no-repeat #fff;
+  background: url("/img/Github.svg") no-repeat #fff;
   -webkit-background-size: 90%;
   -moz-background-size: 90%;
   background-size: 90%;
   background-position: 50% 100%;
 }
 #header .header-nav .social .CodePen {
-  background: url("//cdn.bootcss.com/logos/0.2.0/codepen-icon.svg") no-repeat #000;
+  background: url("/img/CodePen.png") no-repeat #000;
   -webkit-background-size: 70%;
   -moz-background-size: 70%;
   background-size: 70%;
@@ -3084,4 +3084,21 @@ pre .javascript .function {
   padding: 0;
   height: 100%;
   overflow: hidden;
+}
+.article-entry code {
+  color: #808080;
+  padding: 0.05em 0.3em;
+  border-radius: 3px;
+  -webkit-box-shadow: 1px 1px 1px rgba(0,0,0,0.08);
+  box-shadow: 1px 1px 1px rgba(0,0,0,0.08);
+  background: rgba(255,250,165,0.7);
+}
+.article-entry pre code {
+  padding: 0;
+}
+.fancybox-image {
+  background: #fff !important;
+}
+#live2dcanvas {
+  z-index: 999 !important;
 }

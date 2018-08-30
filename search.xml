@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[404]]></title>
+    <url>%2F%2F404.html</url>
+    <content type="text"><![CDATA[页面未找到！]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[关于]]></title>
     <url>%2F%2Fabout.html</url>
     <content type="text"><![CDATA[墨问非名的Hexo博客。]]></content>
@@ -11,18 +16,13 @@
     <content type="text"><![CDATA[]]></content>
   </entry>
   <entry>
-    <title><![CDATA[404]]></title>
-    <url>%2F%2F404.html</url>
-    <content type="text"><![CDATA[页面未找到！]]></content>
+    <title><![CDATA[标签]]></title>
+    <url>%2Ftags%2Findex.html</url>
+    <content type="text"><![CDATA[]]></content>
   </entry>
   <entry>
     <title><![CDATA[日程表]]></title>
     <url>%2Fschedule%2Findex.html</url>
-    <content type="text"><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title><![CDATA[标签]]></title>
-    <url>%2Ftags%2Findex.html</url>
     <content type="text"><![CDATA[]]></content>
   </entry>
 </search>
